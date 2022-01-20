@@ -1,0 +1,45 @@
+★ 폴더 만들기 - bash here 
+★ git init 
+  - 최초실행 시작어
+
+★ git config --global user.email
+  - 처음연결할때   
+
+★ git add README.md
+  - 설명파일을 추가하겠다.
+
+★ git commit -m first commit
+  - 메세지를 넣겠다.
+
+★ git status
+  - 파일 상태보기
+
+★ git add . 
+  - 전체파일을 올리겠다.
+
+★ git status
+  - 파일 상태보기
+
+
+--- 초록색으로 됐을 경우 정상적으로 완료 되었다는 뜻
+
+★ git commit -m first commit
+  - 메세지를 넣겠다.
+
+★ git push -u origin main(or master)
+  - 올리겠다.
+
+
+
+
+
+
+
+★ git init 
+  - 최초실행 시작어
+
+★ git remote add origin httpsgithub.comsuuyomihello.git
+  - 연결하겠다.
+
+★ git pull origin master
+  - 기존에 있는 것을 가져오겠다.
